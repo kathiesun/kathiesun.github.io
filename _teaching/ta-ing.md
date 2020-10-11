@@ -4,12 +4,12 @@ collection: teaching
 type: "Teaching assistant"
 permalink: /teaching/ta
 venue: "University of North Carolina, Chapel Hill"
-date: 2015-08-01
+#date: 2015-08-01
 location: "Chapel Hill, NC"
 ---
-Course descriptions
+# Course descriptions
 ======
-## [BCB 720.](https://bcb.unc.edu/current-course-schedule/#bcb720). Introduction to Statistical Modeling
+## [BCB 720](https://bcb.unc.edu/current-course-schedule/#bcb720). Introduction to Statistical Modeling
 Fall 2017 -- taught by Dr. William Valdar
 
 BCB core course that introduces foundational statistical concepts and models.  
