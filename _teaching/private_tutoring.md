@@ -4,7 +4,7 @@ collection: teaching
 type: "Middle- to college level math"
 permalink: /teaching/priv_tutoring_colprep_varsity
 venue: "ColPrep Tutoring, Varsity Tutoring"
-#date: 2015-08-01        
+date: 2014-08-01        
 location: "Chapel Hill, NC"
 ---
 # Tutoring experience
