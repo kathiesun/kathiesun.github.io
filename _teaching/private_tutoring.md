@@ -1,8 +1,8 @@
 ---
-title: "Tutoring"
+title: "Private tutoring"
 collection: teaching
 type: "Middle- to college level math"
-permalink: /teaching/tutoring_colprep_varsity
+permalink: /teaching/priv_tutoring_colprep_varsity
 venue: "ColPrep Tutoring, Varsity Tutoring"
 #date: 2015-08-01        
 location: "Chapel Hill, NC"
