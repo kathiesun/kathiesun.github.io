@@ -7,7 +7,6 @@ redirect_from:
   - /resume
 ---
 
-<!DOCTYPE html>
 <html>
   <head>
     <title>CV</title>
