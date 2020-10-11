@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Kathie Sun"
-  avatar           : "profile.png"
+  avatar           : "linkedin.jpg"
   bio              : "PhD candidate in bioinformatics and computational biology"
   location         : "North Carolina, USA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=kathie&sun"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Sun%2C+Kathie"
   googlescholar    : "https://scholar.google.com/citations?user=qo9bddwAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"

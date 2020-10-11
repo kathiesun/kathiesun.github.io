@@ -4,7 +4,7 @@ collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/ta-ing
 venue: "University of North Carolina, Chapel Hill"
-date: Fall 2015, Fall 2017
+date: 2015-08-01
 location: "Chapel Hill, NC"
 ---
 Course descriptions
