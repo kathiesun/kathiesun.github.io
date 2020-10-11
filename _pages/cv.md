@@ -6,14 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
 <html>
-  <head>
-    <title>CV</title>
-  </head>
-  <body>
-    <h1></h1>
-    <iframe src="http://kathiesun.github.io/files/resume_2019_ksun.pdf" width="100%" height="1000px">
-    </iframe>
-  </body>
+  <embed src="http://kathiesun.github.io/files/resume_2019_ksun.pdf" type="application/pdf" width="100%" height="600px" />
 </html>
