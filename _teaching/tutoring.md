@@ -15,14 +15,7 @@ I have also provided in-depth assistance to students preparing for standardized 
 Aside from private tutoring, I've volunteered with groups and at schools around the Chapel Hill, NC area to provide help with math and standardized test prep for communities lacking resources to pay for tutors.
 
 Links
-======
-Colprep, Inc.  
-https://www.colpreptutoring.com/
-
 -----------
+[Colprep, Inc.] (https://www.colpreptutoring.com/)
 
-
-Varsity Tutors  
-https://www.varsitytutors.com/
-
------------
+[Varsity Tutors] (https://www.varsitytutors.com/)
