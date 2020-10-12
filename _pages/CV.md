@@ -28,15 +28,16 @@ Honors
 
 Work experience
 ======
+
 Cardno ChemRisk _Aliso Viejo, CA_
 ---------------
-* *Summer Intern* May-Aug 2015
+* **Summer Intern** May-Aug 2015
   * Performed meta-analysis of human epidemiologic data to evaluate the profile of common or therapy targetable mutations in lung cancers of never and ever smokers
 Designed study methodology, conducted statistical analysis & drafted work for publication
 
 National Human Genome Research Institute (NHGRI) _Rockville, MD_
 ---------------
-* *Scientific Program Analyst* May 2012 - May 2014
+* **Scientific Program Analyst** May 2012 - May 2014
   * Supported grant management by facilitating communication between NHGRI Program Directors and external researchers
   * Conducted literature reviews resulting in manuscripts & consolidated information generated from meetings and grant applications
 
@@ -69,8 +70,11 @@ Talks
 
 
 Service and leadership
-* 2008 - 2019 *Coxswain* Duke Varsity Women’s Rowing and Carolina Masters Club Crew _Durham, NC_
-* Aug 2015 - May 2016 *Vice-president* Environmental Sciences and Engineering Student Organization _Chapel Hill, NC_
-* Apr 2019 *Scientist ambassador* DNA Day teaching genetics in high school classrooms _Wilkesboro, NC_
-* Aug 2019 - present *Senator* UNC Graduate and Professional Students Federation _Chapel Hill, NC_
-* Aug 2019 - present *Student member* BCB Students’ Invited Speaker Seminar Series Committee _Chapel Hill, NC_
+=======
+| Dates | Role | Description | Location |
+| ----------- | ----------- | ----------- | ----------- |
+| 2008 - 2019 | Coxswain | Duke Varsity Women’s Rowing and Carolina Masters Club Crew | _Durham, NC_
+| Aug 2015 - May 2016 | Vice-president | Environmental Sciences and Engineering Student Organization | Chapel Hill, NC |
+| Apr 2019 | Scientist ambassador | DNA Day teaching genetics in high school classrooms | Wilkesboro, NC |
+| Aug 2019 - present | Senator | UNC Graduate and Professional Students Federation | Chapel Hill, NC |
+| Aug 2019 - present | Student member | BCB Students’ Invited Speaker Seminar Series Committee | Chapel Hill, NC |
