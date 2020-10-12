@@ -47,7 +47,7 @@ $type-size-8                : 0.625em;  // ~10px
    Colors
    ========================================================================== */
 
-$gray                       : #7a8288;
+$gray                       : #4a535a        /*#7a8288;*/
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
@@ -55,7 +55,7 @@ $lighter-gray               : mix(#fff, $gray, 90%);
 
 $body-color                 : #fff;
 $background-color           : #fff;
-$code-background-color      : #fafafa;
+$code-background-color      : #dcf3ff;         /*fafafa*/;
 $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
 $border-color               : $lighter-gray;
@@ -126,7 +126,7 @@ $right-sidebar-width-wide   : 0px;
 
 $susy: (
   columns: 12,
-  column-width: 120px,
+  column-width: 140px,    /*120px*/
   gutters: 1/4,
   math: fluid,
   output: float,
