@@ -58,6 +58,7 @@ Skills
 
 Service and leadership
 =======
+
 | Dates | Role | Description | Location |
 | ----------- | ----------- | ----------- | ----------- |
 | 2008 - 2019 | Coxswain | Duke Varsity Women’s Rowing and Carolina Masters Club Crew | _Durham, NC_ |
