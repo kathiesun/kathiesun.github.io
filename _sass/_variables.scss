@@ -47,18 +47,18 @@ $type-size-8                : 0.625em;  // ~10px
    Colors
    ========================================================================== */
 
-$gray                       : #4a535a;        /*;*/
+$gray                       : #4a535a        /*#7a8288;*/
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
-$body-color                 : #fff;
-$background-color           : #fff;
+$body-color                 : #edffe6         /*fff;*/
+$background-color           : #edffe6
 $code-background-color      : #dcf3ff;         /*fafafa*/;
 $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
-$border-color               : $lighter-gray;
+$border-color               : $darker-gray;
 
 $primary-color              : #7a8288;
 $success-color              : #62c462;
