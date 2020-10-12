@@ -10,13 +10,11 @@ redirect_from:
 [download here](https://kathiesun.github.io/files/resume_2019_ksun.pdf)
 
 ## Education
-======
 * B.S. in Environmental Science & Biology, Duke University, 2012
 * M.S. in Environmental Sciences and Engineering, University of North Carolina - Chapel Hill, 2016
 * Ph.D in Bioinformatics and Computational Biology, University of North Carolina - Chapel Hill, 2021 (expected)
 
 ## Honors
-======
 * Caroline H. & Thomas S. Royster Fellowship, 2016-2021
 * National Institute of General Medical Sciences T32 graduate trainee, 2017-2018
 * National Institute for Occupational Safety & Health T32 graduate trainee, 2014-2016
@@ -27,8 +25,6 @@ redirect_from:
 * Becton Dickinson Biosciences academic scholarship, 2008-2012
 
 ## Work experience
-======
-
 ### Cardno ChemRisk _Aliso Viejo, CA_
 * **Summer Intern**
   * _May - Aug 2015_
@@ -42,7 +38,6 @@ Designed study methodology, conducted statistical analysis & drafted work for pu
   * Conducted literature reviews resulting in manuscripts & consolidated information generated from meetings and grant applications
 
 ## Skills
-======
 * Probability & Statistics
   * Bayesian methods
   * Linear models & regressions
@@ -57,7 +52,6 @@ Designed study methodology, conducted statistical analysis & drafted work for pu
   * Microsoft Office
 
 ## Service and leadership
-=======
 
 | Dates       | Role        | Description | Location    |
 | ----------- | ----------- | ----------- | ----------- |
@@ -68,9 +62,7 @@ Designed study methodology, conducted statistical analysis & drafted work for pu
 | Aug 2019 - present | Student member | BCB Students’ Invited Speaker Seminar Series Committee | Chapel Hill, NC |
 
 ## Publications
-======
   [Google Scholar](https://scholar.google.com/citations?user=qo9bddwAAAAJ&hl=en)
 
 ## Talks
-======
   [link](https://kathiesun.github.io/presentations)
