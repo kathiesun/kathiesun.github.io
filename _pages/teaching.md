@@ -1,7 +1,7 @@
 ---
 title: "Teaching"
 permalink: /teaching/
-layout: pages
+layout: single
 author_profile: true
 ---
 # Teaching assistant
