@@ -1,6 +1,6 @@
 ---
 title: "CV"
 permalink: /CV/
-layout: pages
+layout: default
 author_profile: true
 ---
