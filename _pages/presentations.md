@@ -7,7 +7,7 @@ author_profile: true
 
 * **Novel patterns of skewed X-inactivation ratio identified in genetically-diverse mouse crosses**
   * BCB Student Seminars, _Chapel Hill, NC_
-  * Presentation, 3 September 2020,
+  * Presentation, 3 September 2020
 
 * **Reciprocal, sparse diallels of Collaborative Cross mice for identifying effects of allelic imbalance**
   * Gordon Research Conference on Quantitative Genetics and Genomics, _Lucca, Italy_
