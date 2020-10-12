@@ -21,9 +21,9 @@ description               : "Kathie Sun's personal website for CV and thoughts"
 repository                : "kathiesun.github.io"
 twitter_username          : "HeySunKat"
 github_username           : "kathiesun"
-minimal_mistakes_skin     : contrast
+masthead_title            : "K Sun"
+
 search                    : true
-masthead_title            : "KYS"
 
 
 # Build settings
