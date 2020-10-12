@@ -58,17 +58,6 @@ Skills
   * Adobe Creative Suite
   * Microsoft Office
 
-Publications
-======
-  [Google Scholar](https://scholar.google.com/citations?user=qo9bddwAAAAJ&hl=en)
-
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-
-
 Service and leadership
 =======
 | Dates | Role | Description | Location |
@@ -78,3 +67,11 @@ Service and leadership
 | Apr 2019 | Scientist ambassador | DNA Day teaching genetics in high school classrooms | Wilkesboro, NC |
 | Aug 2019 - present | Senator | UNC Graduate and Professional Students Federation | Chapel Hill, NC |
 | Aug 2019 - present | Student member | BCB Students’ Invited Speaker Seminar Series Committee | Chapel Hill, NC |
+
+Publications
+======
+  [Google Scholar](https://scholar.google.com/citations?user=qo9bddwAAAAJ&hl=en)
+
+Talks
+======
+  [link](kathiesun.github.io/presentations)
