@@ -4,10 +4,10 @@ title: "Teaching Experience"
 permalink: /teaching/
 author_profile: true
 ---
-================
+***********
 
-# Teaching assistant
-## Course descriptions
+## Teaching assistant
+### _Course descriptions_
 
 ### [BCB 720](https://bcb.unc.edu/current-course-schedule/#bcb720). Introduction to Statistical Modeling
 Fall 2017 -- taught by Dr. William Valdar
@@ -21,11 +21,15 @@ Fall 2015 -- taught by Dr. Courtney G. Woods
 
 This survey course examines the relationship between environmental quality, human health and welfare.
 
----
+***********
 
-# Private tutor
-## Tutoring experience
+## Course instructor
+### UNC-CH How to Learn to Code [Beginner R](http://howtolearntocode.web.unc.edu/).
 
+Co-taught Beginner R course during Summer 2018. Materials [here](https://how-to-learn-to-code.github.io/rclass/).
+
+************
+## Private tutor
 I've tutored math and science at the middle-school to college level since 2014 in the Chapel Hill, NC area.
 
   - CC Math 1-3
@@ -41,7 +45,5 @@ I've tutored math and science at the middle-school to college level since 2014 i
 Aside from private tutoring, I've volunteered with local organizations and schools to provide math tutoring and standardized test prep for communities lacking in resources.
 
 ### Links
------------
 [Colprep, Inc.](https://www.colpreptutoring.com/)
-
 [Varsity Tutors](https://www.varsitytutors.com/)
