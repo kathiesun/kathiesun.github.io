@@ -13,10 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title                     : "sunk_website"
+title                     : "KYS"
+title_separator           : "|"
 email                     : "kathie.y.sun@gmail.com"
-name                      : "kathie_y_sun"
-description               : &description "personal website for CV and thoughts"
+name                      : "K Sun"
+description               : "Kathie Sun's personal website for CV and thoughts"
 repository                : "kathiesun.github.io"
 twitter_username          : "HeySunKat"
 github_username           : "kathiesun"
@@ -89,6 +90,7 @@ defaults:
       type: posts
     values:
       layout: single
+      show_date: true
       author_profile: true
       read_time: false
       comments: true
