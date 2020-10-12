@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[download here](kathiesun.github.io/files/resume_2019_ksun.pdf)
+[download here](https://kathiesun.github.io/files/resume_2019_ksun.pdf)
 
 Education
 ======
@@ -62,7 +62,7 @@ Service and leadership
 =======
 | Dates | Role | Description | Location |
 | ----------- | ----------- | ----------- | ----------- |
-| 2008 - 2019 | Coxswain | Duke Varsity Women’s Rowing and Carolina Masters Club Crew | _Durham, NC_
+| 2008 - 2019 | Coxswain | Duke Varsity Women’s Rowing and Carolina Masters Club Crew | _Durham, NC_ |
 | Aug 2015 - May 2016 | Vice-president | Environmental Sciences and Engineering Student Organization | Chapel Hill, NC |
 | Apr 2019 | Scientist ambassador | DNA Day teaching genetics in high school classrooms | Wilkesboro, NC |
 | Aug 2019 - present | Senator | UNC Graduate and Professional Students Federation | Chapel Hill, NC |
@@ -74,4 +74,4 @@ Publications
 
 Talks
 ======
-  [link](kathiesun.github.io/presentations)
+  [link](https://kathiesun.github.io/presentations)
