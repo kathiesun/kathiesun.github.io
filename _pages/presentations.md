@@ -5,31 +5,30 @@ permalink: /presentations/
 author_profile: true
 ---
 
-* Novel patterns of skewed X-inactivation ratio identified in genetically-diverse mouse crosses
-  * _Presentation_
-  * BCB Student Seminars
-  * 3 September 2020, _Chapel Hill, NC_
-* Reciprocal, sparse diallels of Collaborative Cross mice for identifying effects of allelic imbalance
-  * _Poster_
-  * Gordon Research Conference on Quantitative Genetics and Genomics
-  * February 2019, _Lucca, Italy_
-* Modeling gene-by-environment effects and allelic imbalance in a reciprocal, sparse diallel of Collaborative Cross mice
-  * _Presentation_
-  * Complex Trait Consortium Meeting
-  * June 2019, _San Diego, CA_
-* Civil Society and the Role of the University
-  * _Conference participant_
-  * Summer 2018 Royster Global Conference at King’s College London
-  * July 2018, _London, UK_
-* A unique murine genetic model and framework for identifying effects of parent-of-origin effects
-  * _Poster_
-  * Population, Evolutionary and Quantitative Genetics Conference
-  * May 2018, _Madison, WI_
-* Estimating heritability and genetic correlation of exercise-related traits in Diversity Outbred mice
-  * _Presentation_
-  * Complex Trait Consortium Meeting
-  * June 2017, _Memphis, TN_
-* Influence of genetic markers on exposure assessment models
-  *  _Poster_
-  * Society of Toxicology Annual Meeting
-  * March 2016, _New Orleans, LA_
+* **Novel patterns of skewed X-inactivation ratio identified in genetically-diverse mouse crosses**
+  * BCB Student Seminars, _Chapel Hill, NC_
+  * Presentation, 3 September 2020,
+
+* **Reciprocal, sparse diallels of Collaborative Cross mice for identifying effects of allelic imbalance**
+  * Gordon Research Conference on Quantitative Genetics and Genomics, _Lucca, Italy_
+  * Poster, February 2019
+
+* **Modeling gene-by-environment effects and allelic imbalance in a reciprocal, sparse diallel of Collaborative Cross mice**
+  * Complex Trait Consortium Meeting, _San Diego, CA_
+  * Presentation, June 2019
+
+* **Civil Society and the Role of the University**
+  * Summer 2018 Royster Global Conference at King’s College London, _London, UK_
+  * Conference participant, July 2018
+
+* **A unique murine genetic model and framework for identifying effects of parent-of-origin effects**
+  * Population, Evolutionary and Quantitative Genetics Conference, _Madison, WI_
+  * Poster, May 2018
+
+* **Estimating heritability and genetic correlation of exercise-related traits in Diversity Outbred mice**
+  * Complex Trait Consortium Meeting, _Memphis, TN_
+  * Presentation, June 2017
+
+* **Influence of genetic markers on exposure assessment models**
+  * Society of Toxicology Annual Meeting, _New Orleans, LA_
+  * Poster, March 2016
