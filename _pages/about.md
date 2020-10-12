@@ -1,14 +1,8 @@
 ---
-permalink: /
-title: "Kathie Y. Sun"
-excerpt: "About me"
-author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
+permalink: /about/
+title: "About"
 ---
 
+Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
 
-This space serves as a launchpad for my CV as well as a scratchpad to document my mistakes, learning exercises, dead side projects, etc. Maybe those two efforts shouldn't share the same space. Oh well.
-
-I'm currently a 5th year PhD student in Bioinformatics and Computational Biology (BCB) at the University of North Carolina, Chapel Hill (UNC-CH). My work is in statistical genetics, and I build Bayesian hierarchical models to understand the relationship between genetics and complex traits in diverse mouse populations. I wouldn't quite call myself a geneticist, or a statistician. My background is in environmental science and toxicology. I'm a dabbler! I'm working on it.
+Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
