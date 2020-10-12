@@ -136,6 +136,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
 # Conversion
+theme: minimal-mistakes-jekyll
 markdown: kramdown
 highlighter: rouge
 lsi: false
