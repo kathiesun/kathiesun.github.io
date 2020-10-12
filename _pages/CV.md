@@ -9,13 +9,13 @@ redirect_from:
 
 [download here](https://kathiesun.github.io/files/resume_2019_ksun.pdf)
 
-Education
+## Education
 ======
 * B.S. in Environmental Science & Biology, Duke University, 2012
 * M.S. in Environmental Sciences and Engineering, University of North Carolina - Chapel Hill, 2016
 * Ph.D in Bioinformatics and Computational Biology, University of North Carolina - Chapel Hill, 2021 (expected)
 
-Honors
+## Honors
 ======
 * Caroline H. & Thomas S. Royster Fellowship, 2016-2021
 * National Institute of General Medical Sciences T32 graduate trainee, 2017-2018
@@ -26,22 +26,22 @@ Honors
 * Atlantic Coast Conference academic honor roll, 2008-2010
 * Becton Dickinson Biosciences academic scholarship, 2008-2012
 
-Work experience
+## Work experience
 ======
 
-Cardno ChemRisk _Aliso Viejo, CA_
----------------
-* **Summer Intern** May-Aug 2015
+### Cardno ChemRisk _Aliso Viejo, CA_
+* **Summer Intern**
+  * _May - Aug 2015_
   * Performed meta-analysis of human epidemiologic data to evaluate the profile of common or therapy targetable mutations in lung cancers of never and ever smokers
 Designed study methodology, conducted statistical analysis & drafted work for publication
 
-National Human Genome Research Institute (NHGRI) _Rockville, MD_
----------------
-* **Scientific Program Analyst** May 2012 - May 2014
+### National Human Genome Research Institute (NHGRI) _Rockville, MD_
+* **Scientific Program Analyst**
+  * _May 2012 - May 2014_
   * Supported grant management by facilitating communication between NHGRI Program Directors and external researchers
   * Conducted literature reviews resulting in manuscripts & consolidated information generated from meetings and grant applications
 
-Skills
+## Skills
 ======
 * Probability & Statistics
   * Bayesian methods
@@ -56,7 +56,7 @@ Skills
   * Adobe Creative Suite
   * Microsoft Office
 
-Service and leadership
+## Service and leadership
 =======
 
 | Dates       | Role        | Description | Location    |
@@ -67,10 +67,10 @@ Service and leadership
 | Aug 2019 - present | Senator | UNC Graduate and Professional Students Federation | Chapel Hill, NC |
 | Aug 2019 - present | Student member | BCB Students’ Invited Speaker Seminar Series Committee | Chapel Hill, NC |
 
-Publications
+## Publications
 ======
   [Google Scholar](https://scholar.google.com/citations?user=qo9bddwAAAAJ&hl=en)
 
-Talks
+## Talks
 ======
   [link](https://kathiesun.github.io/presentations)

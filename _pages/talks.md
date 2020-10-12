@@ -4,8 +4,6 @@ title: "Presentations"
 permalink: /presentations/
 author_profile: true
 ---
-{% include base_path %}
-{% include toc %}
 
 * Novel patterns of skewed X-inactivation ratio identified in genetically-diverse mouse crosses
   * _Presentation_
