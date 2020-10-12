@@ -59,9 +59,9 @@ Skills
 Service and leadership
 =======
 
-| Dates | Role | Description | Location |
+| Dates       | Role        | Description | Location    |
 | ----------- | ----------- | ----------- | ----------- |
-| 2008 - 2019 | Coxswain | Duke Varsity Women’s Rowing and Carolina Masters Club Crew | _Durham, NC_ |
+| Aug 2008 - Jun 2019 | Coxswain | Duke Varsity Women’s Rowing and Carolina Masters Club Crew | Durham, NC |
 | Aug 2015 - May 2016 | Vice-president | Environmental Sciences and Engineering Student Organization | Chapel Hill, NC |
 | Apr 2019 | Scientist ambassador | DNA Day teaching genetics in high school classrooms | Wilkesboro, NC |
 | Aug 2019 - present | Senator | UNC Graduate and Professional Students Federation | Chapel Hill, NC |
