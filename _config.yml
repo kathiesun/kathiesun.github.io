@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title                     : "KYS"
+title                     : "Kathie Y. Sun"
 title_separator           : "|"
 email                     : "kathie.y.sun@gmail.com"
 name                      : "K Sun"
@@ -27,9 +27,9 @@ search                    : true
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-
+minimal_mistakes_skin    : "contrast"
 # Outputting
-permalink: /:categories/:title/
+permalink: /
 #paginate: 5 # amount of posts to show
 #paginate_path: /page:num/
 timezone: America/Los_Angeles # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -65,8 +65,8 @@ author:
   bio    : "PhD candidate in bioinformatics and computational biology"
   links:
     - label: "Email"
-      icon: "fab fa-fw fa-envelope"
-      url: "kathie.y.sun@gmail.com"
+      icon: "fab fa-fw fa-envelope-square"
+      url: "mailto:kathie.y.sun@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/HeySunKat"
