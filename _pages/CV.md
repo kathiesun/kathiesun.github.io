@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[download here](kathiesun.github.io/files/resume_2019_ksun.pdf)
+
 Education
 ======
 * B.S. in Environmental Science & Biology, Duke University, 2012
@@ -58,9 +60,7 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  [Google Scholar](https://scholar.google.com/citations?user=qo9bddwAAAAJ&hl=en)
 
 Talks
 ======
