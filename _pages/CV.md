@@ -11,7 +11,7 @@ redirect_from:
 
 ## Education
 * B.S. in Environmental Science & Biology, Duke University,
-  * Thesis: Expression and subcellular localization of GFP-tagged p55 accessory subunits of DNA polymerase \\(\gamma\\) in vivo
+  * Thesis: Expression and subcellular localization of GFP-tagged p55 accessory subunits of DNA polymerase \\(\gamma\\) _in vivo_
 * M.S. in Environmental Sciences and Engineering, University of North Carolina - Chapel Hill, 2016
   * Thesis: Influence of Genetic Variance on an Occupational Exposure Assessment Model of 1,6-Hexamethylene Diisocyanate
 * Ph.D in Bioinformatics and Computational Biology, University of North Carolina - Chapel Hill, 2021 (expected)
