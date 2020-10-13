@@ -49,7 +49,7 @@
   .fab,
   .far,
   .fal {
-    color: #c2ffd0; /*mix(#fff, $gray, 25%);*/
+    color: mix(#fff, $gray, 25%); 
   }
 }
 
