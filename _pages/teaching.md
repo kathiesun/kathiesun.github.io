@@ -14,21 +14,21 @@ Fall 2017 -- taught by Dr. William Valdar
 
 BCB core course that introduces foundational statistical concepts and models.
 
--------------
+---------------------
 
 ### [ESE 600](https://sph.unc.edu/envr/envr-courses-offered/). Environmental Health
 Fall 2015 -- taught by Dr. Courtney G. Woods
 
 This survey course examines the relationship between environmental quality, human health and welfare.
 
-***********
+***************************************
 
 ## Course instructor
 ### UNC-CH How to Learn to Code [Beginner R](http://howtolearntocode.web.unc.edu/).
 
 Co-taught Beginner R course during Summer 2018. Materials [here](https://how-to-learn-to-code.github.io/rclass/).
 
-************
+***************************************
 ## Private tutor
 I've tutored math and science at the middle-school to college level since 2014 in the Chapel Hill, NC area.
 
