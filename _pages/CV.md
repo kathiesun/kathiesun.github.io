@@ -10,14 +10,16 @@ redirect_from:
 [download here](https://kathiesun.github.io/files/resume_2019_ksun.pdf)
 
 ## Education
-* B.S. in Environmental Science & Biology, Duke University, 2012
+* B.S. in Environmental Science & Biology, Duke University,
+  * Thesis: Expression and subcellular localization of GFP-tagged p55 accessory subunits of DNA polymerase \\(\gamma\\) in vivo
 * M.S. in Environmental Sciences and Engineering, University of North Carolina - Chapel Hill, 2016
+  * Thesis: Influence of Genetic Variance on an Occupational Exposure Assessment Model of 1,6-Hexamethylene Diisocyanate
 * Ph.D in Bioinformatics and Computational Biology, University of North Carolina - Chapel Hill, 2021 (expected)
 
 ## Honors
-* Caroline H. & Thomas S. Royster Fellowship, 2016-2021
-* National Institute of General Medical Sciences T32 graduate trainee, 2017-2018
-* National Institute for Occupational Safety & Health T32 graduate trainee, 2014-2016
+* [Caroline H. & Thomas S. Royster Fellowship](https://gradschool.unc.edu/funding/gradschool/royster/), 2016-2021
+* National Institute of General Medical Sciences [T32 graduate trainee](http://bcbcarolinat32.web.unc.edu/), 2017-2018
+* National Institute for Occupational Safety & Health [T32 graduate trainee](https://osherc.sph.unc.edu/academic_programs/oes-industrial-hygiene.html), 2014-2016
 * American Industrial Hygiene Foundation scholarship, 2015
 * UNC-CH David Allison Fraser scholarship, 2014
 * _Cum laude_ & Graduation with High Distinction in Biology, 2012
@@ -64,5 +66,4 @@ Designed study methodology, conducted statistical analysis & drafted work for pu
 ## Publications
   [Google Scholar](https://scholar.google.com/citations?user=qo9bddwAAAAJ&hl=en)
 
-## Talks
-  [link](https://kathiesun.github.io/presentations)
+## [Talks](https://kathiesun.github.io/presentations)
