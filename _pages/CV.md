@@ -31,7 +31,7 @@ redirect_from:
 * **Summer Intern**
   * _May - Aug 2015_
   * Performed meta-analysis of human epidemiologic data to evaluate the profile of common or therapy targetable mutations in lung cancers of never and ever smokers
-Designed study methodology, conducted statistical analysis & drafted work for publication
+  * Designed study methodology, conducted statistical analysis & drafted work for publication
 
 ### National Human Genome Research Institute (NHGRI) _Rockville, MD_
 * **Scientific Program Analyst**
