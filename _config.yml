@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kathie Y. Sun"
+title                    : "Kathie Sun"
 title_separator          : "-"
-name                     : &name "Kathie Y. Sun"
+name                     : &name "Kathie Sun"
 description              : &description "Kathie's personal website for CV and stuff"
 url                      : https://kathiesun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kathie Y. Sun"
+  name             : "Kathie Sun"
   avatar           : "linkedin.jpg"
   bio              : "PhD candidate in bioinformatics and computational biology"
   #location         : "Seattle, WA"
