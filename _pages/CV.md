@@ -15,6 +15,7 @@ redirect_from:
 * M.S. in Environmental Sciences and Engineering, University of North Carolina - Chapel Hill, 2016
   * Thesis: Influence of Genetic Variance on an Occupational Exposure Assessment Model of 1,6-Hexamethylene Diisocyanate
 * Ph.D in Bioinformatics and Computational Biology, University of North Carolina - Chapel Hill, 2021 (expected)
+  * Minor in Biostatistics
 
 ## Honors
 * [Caroline H. & Thomas S. Royster Fellowship](https://gradschool.unc.edu/funding/gradschool/royster/), 2016-2021
