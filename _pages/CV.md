@@ -18,7 +18,9 @@ redirect_from:
   * Minor in Biostatistics
 
 ## Honors
+
 * [Caroline H. & Thomas S. Royster Fellowship](https://gradschool.unc.edu/funding/gradschool/royster/), 2016-2021
+* Scholarship to attend the University of Washington Summer Institute in Statistical Genetics (SISG), 2019
 * National Institute of General Medical Sciences [T32 graduate trainee](http://bcbcarolinat32.web.unc.edu/), 2017-2018
 * National Institute for Occupational Safety & Health [T32 graduate trainee](https://osherc.sph.unc.edu/academic_programs/oes-industrial-hygiene.html), 2014-2016
 * American Industrial Hygiene Foundation scholarship, 2015
