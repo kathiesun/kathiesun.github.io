@@ -65,6 +65,7 @@ redirect_from:
 | Apr 2019 | Scientist ambassador | DNA Day teaching genetics in high school classrooms | Wilkesboro, NC |
 | Aug 2019 - present | Senator | UNC Graduate and Professional Students Federation | Chapel Hill, NC |
 | Aug 2019 - present | Student member | BCB Students’ Invited Speaker Seminar Series Committee | Chapel Hill, NC |
+| Aug 2020 - present | Member | Royster Distinguished Professor for Graduate Education Search Committee | Chapel Hill, NC |
 
 ## Publications
   [Google Scholar](https://scholar.google.com/citations?user=qo9bddwAAAAJ&hl=en)
