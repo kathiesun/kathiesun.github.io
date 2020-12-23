@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[download here](https://kathiesun.github.io/files/resume_2019_ksun.pdf)
+[download here](https://kathiesun.github.io/files/resume_latest.pdf)
 
 ## Education
 * B.S. in Environmental Science & Biology, Duke University,
