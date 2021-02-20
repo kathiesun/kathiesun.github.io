@@ -15,7 +15,7 @@ This space serves as a launchpad for my [CV](https://kathiesun.github.io/files/r
 
 
 ## News
-* <span style="color:blue">[**2/19/2020**]</span> My first first-author manuscript has been accepted to _Genetics_!
+* <span style="color:blue">[**2/19/2021**]</span> My first first-author manuscript has been accepted to _Genetics_!
   * _Title_: "Bayesian modeling of skewed X inactivation in genetically diverse mice identifies a novel _Xce_ allele associated with copy number changes"
   * It is available for the time being on [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.11.13.380535v2)
   * We find a novel functional allele that affects X chromosome inactivation skewing in mice
