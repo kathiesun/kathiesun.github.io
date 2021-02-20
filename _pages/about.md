@@ -15,8 +15,9 @@ This space serves as a launchpad for my [CV](https://kathiesun.github.io/files/r
 
 
 ## News
-* <span style="color:blue">[**11/14/2020**]</span> My first first-author [manuscript](https://www.biorxiv.org/content/10.1101/2020.11.13.380535v1) is now on bioRxiv! 
-  * _Title_: "Skewed X inactivation in genetically diverse mice is associated with recurrent copy number changes at the _Xce_ locus"
+* <span style="color:blue">[**2/19/2020**]</span> My first first-author manuscript has been accepted to _Genetics_!
+  * _Title_: "Bayesian modeling of skewed X inactivation in genetically diverse mice identifies a novel _Xce_ allele associated with copy number changes"
+  * It is available for the time being on [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.11.13.380535v2)
   * We find a novel functional allele that affects X chromosome inactivation skewing in mice
   * This new allele is the weakest in a known allelic series and is found in a specific mouse strain, NOD/ShiLtJ
   * We find evidence that the weakness of this allele may be related to copy number variation in the region
