@@ -18,7 +18,7 @@ This space serves as a launchpad for my [CV](https://kathiesun.github.io/files/r
 * <span style="color:blue">[**3/24/2021**]</span> I've successfully defended my PhD dissertation today
   * _Thesis title_: "Statistical Modeling of Parent-of-origin Effects and Allelic Imbalance in Genetically-diverse, Reciprocal Mouse Crosses"
   * Thanks to my committee, advisor, labmates, and fellow graduate student friends for the helpful advice and lessons along this journey!
-  * Further thanks to all of my friends and family for the support over the last few years <3 <3 
+  * Further thanks to all of my friends and family for the support over the last few years <3
 
 * <span style="color:blue">[**2/19/2021**]</span> My first first-author manuscript has been accepted to [_Genetics_](https://academic.oup.com/genetics/advance-article-abstract/doi/10.1093/genetics/iyab034/6162162?redirectedFrom=fulltext)
   * _Title_: "Bayesian modeling of skewed X inactivation in genetically diverse mice identifies a novel _Xce_ allele associated with copy number changes"
