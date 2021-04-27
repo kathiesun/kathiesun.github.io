@@ -25,4 +25,5 @@ This space serves as a launchpad for my [CV](https://kathiesun.github.io/files/r
   * We find a novel functional allele that affects X chromosome inactivation skewing in mice
   * This new allele is the weakest in a known allelic series and is found in a specific mouse strain, NOD/ShiLtJ
   * We find evidence that the weakness of this allele may be related to copy number variation in the region
-  * <!--- * It is available for the time being on [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.11.13.380535v2) --->
+ 
+ <!--- * It is available for the time being on [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.11.13.380535v2) --->
