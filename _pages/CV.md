@@ -10,9 +10,8 @@ redirect_from:
 [download here](https://kathiesun.github.io/files/resume_latest.pdf)
 
 ## Education
-* Ph.D in Bioinformatics and Computational Biology, University of North Carolina - Chapel Hill, 2016-2021 (expected)
+* Ph.D in Bioinformatics and Computational Biology, University of North Carolina - Chapel Hill, 2016-2021
   * Minor in Biostatistics
-  * Defending in March 2021
   * Thesis: Statistical modeling of parent-of-origin effects and allelic imbalance in genetically-diverse, reciprocal mouse crosses
 * M.S. in Environmental Sciences and Engineering, University of North Carolina - Chapel Hill, 2014-2016
   * Thesis: Influence of Genetic Variance on an Occupational Exposure Assessment Model of 1,6-Hexamethylene Diisocyanate
@@ -33,6 +32,12 @@ redirect_from:
 * Becton Dickinson Biosciences academic scholarship, 2008-2012
 
 ## Work experience
+### Regeneron Pharmaceuticals _Tarrytown, NY_
+* **Associate Scientist**
+  * _May 2021 -- _
+  * Developing methods to understand the effect of variants on gene function 
+  * Creating workflows and tools to enable high-throughput annotation of genetic data, large-scale genetic variant analysis
+
 ### Cardno ChemRisk _Aliso Viejo, CA_
 * **Summer Intern**
   * _May - Aug 2015_
