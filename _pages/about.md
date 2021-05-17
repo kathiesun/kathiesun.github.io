@@ -9,12 +9,16 @@ redirect_from:
 ---
 
 
-I'm currently a 5th year PhD student in [Bioinformatics and Computational Biology (BCB)](https://bcb.unc.edu/) at the [University of North Carolina, Chapel Hill (UNC-CH)](https://bbsp.unc.edu/). My work is in [statistical genetics](http://valdarlab.unc.edu/), and I build Bayesian hierarchical models to understand the relationship between genetics and complex traits in diverse mouse populations.
+I'm a computational biologist interested in identifying and characterizing disease-relevant genetic variation in humans and model organisms. I recently completed my PhD in [Bioinformatics and Computational Biology (BCB)](https://bcb.unc.edu/) at the [University of North Carolina, Chapel Hill (UNC-CH)](https://bbsp.unc.edu/). My PhD work was in [statistical genetics](http://valdarlab.unc.edu/), and I built Bayesian hierarchical models to understand the relationship between genetics, environmental factors, and complex traits in diverse mouse populations. Previously, I worked on estimating gene expression signatures associated with urine and blood biomarker levels in occupationally-exposed automobile spray painters. 
 
 This space serves as a launchpad for my [CV](https://kathiesun.github.io/files/resume_latest.pdf) as well as a scratchpad to document some side projects, my attempts to learn statistics & quantitative genetics, and notes on a few things I've learned along the way. 
 
 
 ## News
+* <span style="color:blue">[**4/16/2021**]</span> Officially got my PhD degree conferred yesterday! 
+  * School's out for summer, school's out forever (for real this time)
+  * And I finished my first week as an Associate Scientist at the Regeneron Genetics Center 
+ 
 * <span style="color:blue">[**3/24/2021**]</span> I've successfully defended my PhD dissertation today
   * _Thesis title_: "Statistical Modeling of Parent-of-origin Effects and Allelic Imbalance in Genetically-diverse, Reciprocal Mouse Crosses"
   * Thanks to my committee, advisor, labmates, and fellow graduate student friends for the helpful advice and lessons along this journey!
