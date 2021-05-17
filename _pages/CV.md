@@ -8,29 +8,6 @@ redirect_from:
 ---
 
 [download here](https://kathiesun.github.io/files/resume_latest.pdf)
-
-## Education
-* Ph.D in Bioinformatics and Computational Biology, University of North Carolina - Chapel Hill, 2016-2021
-  * Minor in Biostatistics
-  * Thesis: Statistical modeling of parent-of-origin effects and allelic imbalance in genetically-diverse, reciprocal mouse crosses
-* M.S. in Environmental Sciences and Engineering, University of North Carolina - Chapel Hill, 2014-2016
-  * Thesis: Influence of Genetic Variance on an Occupational Exposure Assessment Model of 1,6-Hexamethylene Diisocyanate
-* B.S. in Environmental Science & Biology, Duke University, 2008-2012
-  * Thesis: Expression and subcellular localization of GFP-tagged p55 accessory subunits of DNA polymerase \\(\gamma\\) _in vivo_
-
-
-## Honors
-
-* [Caroline H. & Thomas S. Royster Fellowship](https://gradschool.unc.edu/funding/gradschool/royster/), 2016-2021
-* Scholarship to attend the University of Washington Summer Institute in Statistical Genetics (SISG), 2019
-* National Institute of General Medical Sciences [T32 graduate trainee](http://bcbcarolinat32.web.unc.edu/), 2017-2018
-* National Institute for Occupational Safety & Health [T32 graduate trainee](https://osherc.sph.unc.edu/academic_programs/oes-industrial-hygiene.html), 2014-2016
-* American Industrial Hygiene Foundation scholarship, 2015
-* UNC-CH David Allison Fraser scholarship, 2014
-* _Cum laude_ & Graduation with High Distinction in Biology, 2012
-* Atlantic Coast Conference academic honor roll, 2008-2010
-* Becton Dickinson Biosciences academic scholarship, 2008-2012
-
 ## Work experience
 ### Regeneron Pharmaceuticals _Tarrytown, NY_
 * **Associate Scientist**
@@ -49,6 +26,27 @@ redirect_from:
   * _May 2012 - May 2014_
   * Supported grant management by facilitating communication between NHGRI Program Directors and external researchers
   * Conducted literature reviews resulting in manuscripts & consolidated information generated from meetings and grant applications
+
+## Education
+* Ph.D in Bioinformatics and Computational Biology, University of North Carolina - Chapel Hill, 2016-2021
+  * Minor in Biostatistics
+  * Thesis: Statistical modeling of parent-of-origin effects and allelic imbalance in genetically-diverse, reciprocal mouse crosses
+* M.S. in Environmental Sciences and Engineering, University of North Carolina - Chapel Hill, 2014-2016
+  * Thesis: Influence of Genetic Variance on an Occupational Exposure Assessment Model of 1,6-Hexamethylene Diisocyanate
+* B.S. in Environmental Science & Biology, Duke University, 2008-2012
+  * Thesis: Expression and subcellular localization of GFP-tagged p55 accessory subunits of DNA polymerase \\(\gamma\\) _in vivo_
+
+## Honors
+* [Caroline H. & Thomas S. Royster Fellowship](https://gradschool.unc.edu/funding/gradschool/royster/), 2016-2021
+* Scholarship to attend the University of Washington Summer Institute in Statistical Genetics (SISG), 2019
+* National Institute of General Medical Sciences [T32 graduate trainee](http://bcbcarolinat32.web.unc.edu/), 2017-2018
+* National Institute for Occupational Safety & Health [T32 graduate trainee](https://osherc.sph.unc.edu/academic_programs/oes-industrial-hygiene.html), 2014-2016
+* American Industrial Hygiene Foundation scholarship, 2015
+* UNC-CH David Allison Fraser scholarship, 2014
+* _Cum laude_ & Graduation with High Distinction in Biology, 2012
+* Atlantic Coast Conference academic honor roll, 2008-2010
+* Becton Dickinson Biosciences academic scholarship, 2008-2012
+
 
 ## Skills
 * Probability & Statistics
