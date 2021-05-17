@@ -34,7 +34,7 @@ redirect_from:
 ## Work experience
 ### Regeneron Pharmaceuticals _Tarrytown, NY_
 * **Associate Scientist**
-  * _May 2021 -- _
+  * _May 2021-_
   * Developing methods to understand the effect of variants on gene function 
   * Creating workflows and tools to enable high-throughput annotation of genetic data, large-scale genetic variant analysis
 
